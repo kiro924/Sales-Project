@@ -1,0 +1,765 @@
+ReturnQuantity,ModelName,ProductCost,Region,Country,Continent,SubcategoryName,CategoryName,Month,Week,Day,Season,Productprice,Returned Revenue Loss,Internal Cost of Returns,Profit Lost on Returns
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,January,1,Thursday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Road-250,1320.6838,Germany,Germany,Europe,Road Bikes,Bikes,January,1,Saturday,Winter,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,January,1,Sunday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Road-250,1320.6838,France,France,Europe,Road Bikes,Bikes,January,2,Saturday,Winter,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-650,413.1463,Southwest,United States,North America,Road Bikes,Bikes,January,3,Saturday,Winter,699.0982,699.0982,413.1463,285.9519
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,January,3,Saturday,Winter,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-650,413.1463,Australia,Australia,Pacific,Road Bikes,Bikes,January,4,Tuesday,Winter,699.0982,699.0982,413.1463,285.9519
+1,Mountain-200,1105.81,Southwest,United States,North America,Mountain Bikes,Bikes,January,4,Sunday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Mountain-200,1117.8559,Northwest,United States,North America,Mountain Bikes,Bikes,February,5,Monday,Winter,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-650,413.1463,Australia,Australia,Pacific,Road Bikes,Bikes,February,6,Friday,Winter,699.0982,699.0982,413.1463,285.9519
+1,Road-550-W,605.6492,Southwest,United States,North America,Road Bikes,Bikes,February,6,Sunday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Road-650,413.1463,Australia,Australia,Pacific,Road Bikes,Bikes,February,7,Saturday,Winter,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,February,7,Saturday,Winter,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-250,1518.7864,Germany,Germany,Europe,Road Bikes,Bikes,February,8,Monday,Winter,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,February,8,Monday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Road-250,1518.7864,Australia,Australia,Pacific,Road Bikes,Bikes,February,8,Thursday,Winter,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,March,10,Tuesday,Spring,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-650,413.1463,Northwest,United States,North America,Road Bikes,Bikes,March,10,Saturday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1518.7864,France,France,Europe,Road Bikes,Bikes,March,11,Friday,Spring,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,March,11,Sunday,Spring,2049.0982,2049.0982,1105.81,943.2882
+1,Road-650,413.1463,Canada,Canada,North America,Road Bikes,Bikes,March,12,Monday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Road-650,413.1463,France,France,Europe,Road Bikes,Bikes,March,12,Thursday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,March,13,Tuesday,Spring,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-250,1518.7864,France,France,Europe,Road Bikes,Bikes,March,13,Thursday,Spring,2443.35,2443.35,1518.7864,924.5636
+1,Road-250,1320.6838,Germany,Germany,Europe,Road Bikes,Bikes,April,13,Friday,Spring,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-550-W,605.6492,France,France,Europe,Road Bikes,Bikes,April,14,Monday,Spring,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain-200,1105.81,Germany,Germany,Europe,Mountain Bikes,Bikes,April,15,Wednesday,Spring,2049.0982,2049.0982,1105.81,943.2882
+1,Road-650,413.1463,Northwest,United States,North America,Road Bikes,Bikes,April,17,Monday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1320.6838,Southwest,United States,North America,Road Bikes,Bikes,April,17,Wednesday,Spring,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-650,413.1463,Northwest,United States,North America,Road Bikes,Bikes,May,17,Sunday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,May,17,Sunday,Spring,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-250,1518.7864,Australia,Australia,Pacific,Road Bikes,Bikes,May,18,Tuesday,Spring,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1117.8559,France,France,Europe,Mountain Bikes,Bikes,May,19,Wednesday,Spring,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,May,20,Monday,Spring,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-250,1320.6838,Southwest,United States,North America,Road Bikes,Bikes,May,20,Saturday,Spring,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-650,413.1463,Germany,Germany,Europe,Road Bikes,Bikes,May,21,Monday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Mountain-200,1105.81,France,France,Europe,Mountain Bikes,Bikes,May,21,Thursday,Spring,2049.0982,2049.0982,1105.81,943.2882
+1,Road-650,413.1463,France,France,Europe,Road Bikes,Bikes,May,21,Friday,Spring,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1518.7864,Southwest,United States,North America,Road Bikes,Bikes,May,22,Tuesday,Spring,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1117.8559,Southwest,United States,North America,Mountain Bikes,Bikes,June,23,Friday,Summer,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-550-W,605.6492,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,June,23,Sunday,Summer,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Road-250,1320.6838,Southwest,United States,North America,Road Bikes,Bikes,June,24,Monday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-650,413.1463,Southwest,United States,North America,Road Bikes,Bikes,June,24,Wednesday,Summer,699.0982,699.0982,413.1463,285.9519
+1,Road-650,413.1463,Northwest,United States,North America,Road Bikes,Bikes,June,24,Sunday,Summer,699.0982,699.0982,413.1463,285.9519
+1,Road-250,1518.7864,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,June,25,Tuesday,Summer,2443.35,2443.35,1518.7864,924.5636
+1,Road-250,1518.7864,France,France,Europe,Road Bikes,Bikes,June,25,Saturday,Summer,2443.35,2443.35,1518.7864,924.5636
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,June,26,Monday,Summer,2049.0982,2049.0982,1105.81,943.2882
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,July,26,Saturday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,July,26,Sunday,Summer,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,July,26,Sunday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road Bottle Cage,3.3623,Australia,Australia,Pacific,Bottles and Cages,Accessories,July,26,Sunday,Summer,8.99,8.99,3.3623,5.627700000000001
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,July,27,Monday,Summer,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Mountain Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,July,27,Wednesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,July,27,Thursday,Summer,2049.0982,2049.0982,1105.81,943.2882
+1,Road-550-W,605.6492,Germany,Germany,Europe,Road Bikes,Bikes,July,27,Friday,Summer,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Bottle Cage,3.7363,Australia,Australia,Pacific,Bottles and Cages,Accessories,July,27,Friday,Summer,9.99,9.99,3.7363,6.2537
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,July,27,Friday,Summer,2.29,2.29,0.8565,1.4335
+1,Hydration Pack,20.5663,Australia,Australia,Pacific,Hydration Packs,Accessories,July,27,Friday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,July,27,Friday,Summer,2.29,2.29,0.8565,1.4335
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,July,27,Saturday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,July,28,Monday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Long-Sleeve Logo Jersey,31.7244,Germany,Germany,Europe,Jerseys,Clothing,July,28,Monday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,July,28,Tuesday,Summer,9.99,9.99,3.7363,6.2537
+1,Road-550-W,605.6492,France,France,Europe,Road Bikes,Bikes,July,28,Tuesday,Summer,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain-200,1117.8559,Southwest,United States,North America,Mountain Bikes,Bikes,July,28,Wednesday,Summer,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,July,28,Wednesday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Fender Set - Mountain,8.2205,Australia,Australia,Pacific,Fenders,Accessories,July,28,Wednesday,Summer,21.98,21.98,8.2205,13.759500000000001
+1,Road-750,343.6496,Southwest,United States,North America,Road Bikes,Bikes,July,28,Thursday,Summer,539.99,539.99,343.6496,196.3404
+1,HL Road Tire,12.1924,Northwest,United States,North America,Tires and Tubes,Accessories,July,28,Friday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,July,28,Friday,Summer,9.99,9.99,3.7363,6.2537
+1,Hitch Rack - 4-Bike,44.88,France,France,Europe,Bike Racks,Accessories,July,28,Friday,Summer,120.0,120.0,44.88,75.12
+1,HL Road Tire,12.1924,France,France,Europe,Tires and Tubes,Accessories,July,28,Friday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Bike Wash,2.9733,United Kingdom,United Kingdom,Europe,Cleaners,Accessories,July,28,Friday,Summer,7.95,7.95,2.9733,4.9767
+1,Cycling Cap,5.7052,Northwest,United States,North America,Caps,Clothing,July,28,Saturday,Summer,8.6442,8.6442,5.7052,2.939
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,July,29,Tuesday,Summer,35.0,35.0,13.09,21.91
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,July,29,Friday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,July,29,Saturday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,July,29,Saturday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,July,29,Sunday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,HL Mountain Tire,13.09,Australia,Australia,Pacific,Tires and Tubes,Accessories,July,30,Monday,Summer,35.0,35.0,13.09,21.91
+1,Hydration Pack,20.5663,Australia,Australia,Pacific,Hydration Packs,Accessories,July,30,Tuesday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,Mountain Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,July,30,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road-250,1320.6838,France,France,Europe,Road Bikes,Bikes,July,30,Thursday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Fender Set - Mountain,8.2205,Germany,Germany,Europe,Fenders,Accessories,July,30,Thursday,Summer,21.98,21.98,8.2205,13.759500000000001
+1,Half-Finger Gloves,9.7136,Germany,Germany,Europe,Gloves,Clothing,July,30,Friday,Summer,23.5481,23.5481,9.7136,13.834500000000002
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,July,30,Friday,Summer,2.29,2.29,0.8565,1.4335
+1,Hydration Pack,20.5663,Australia,Australia,Pacific,Hydration Packs,Accessories,July,30,Friday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,July,30,Friday,Summer,2.29,2.29,0.8565,1.4335
+1,Road-750,343.6496,Germany,Germany,Europe,Road Bikes,Bikes,July,30,Saturday,Summer,539.99,539.99,343.6496,196.3404
+1,HL Road Tire,12.1924,Southwest,United States,North America,Tires and Tubes,Accessories,July,30,Sunday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,July,30,Sunday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,July,30,Sunday,Summer,53.99,53.99,41.5723,12.417700000000004
+1,Hydration Pack,20.5663,Southwest,United States,North America,Hydration Packs,Accessories,August,31,Monday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,All-Purpose Bike Stand,59.466,Australia,Australia,Pacific,Bike Stands,Accessories,August,31,Monday,Summer,159.0,159.0,59.466,99.53399999999999
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,August,31,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,August,31,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,ML Road Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,31,Tuesday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,Long-Sleeve Logo Jersey,31.7244,Canada,Canada,North America,Jerseys,Clothing,August,31,Wednesday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,HL Mountain Tire,13.09,Canada,Canada,North America,Tires and Tubes,Accessories,August,31,Wednesday,Summer,35.0,35.0,13.09,21.91
+1,HL Road Tire,12.1924,Canada,Canada,North America,Tires and Tubes,Accessories,August,31,Wednesday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,August,31,Thursday,Summer,9.99,9.99,3.7363,6.2537
+1,Bike Wash,2.9733,Southwest,United States,North America,Cleaners,Accessories,August,31,Friday,Summer,7.95,7.95,2.9733,4.9767
+1,Mountain Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,August,31,Friday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,August,31,Friday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Road Tire Tube,1.4923,Germany,Germany,Europe,Tires and Tubes,Accessories,August,31,Saturday,Summer,3.99,3.99,1.4923,2.4977
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,August,31,Sunday,Summer,2.29,2.29,0.8565,1.4335
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,August,31,Sunday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,31,Sunday,Summer,2.29,2.29,0.8565,1.4335
+1,Road Bottle Cage,3.3623,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,August,31,Sunday,Summer,8.99,8.99,3.3623,5.627700000000001
+1,HL Mountain Tire,13.09,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,August,31,Sunday,Summer,35.0,35.0,13.09,21.91
+1,ML Mountain Tire,11.2163,Northwest,United States,North America,Tires and Tubes,Accessories,August,32,Monday,Summer,29.99,29.99,11.2163,18.773699999999998
+1,Road-250,1320.6838,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,August,32,Monday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,August,32,Tuesday,Summer,2181.5625,2181.5625,1320.6838,860.8787
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,32,Tuesday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,HL Road Tire,12.1924,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,32,Tuesday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,August,32,Wednesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,August,32,Wednesday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Road-550-W,605.6492,Southwest,United States,North America,Road Bikes,Bikes,August,32,Thursday,Summer,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,August,32,Thursday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,32,Thursday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,August,32,Friday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Southwest,United States,North America,Tires and Tubes,Accessories,August,32,Friday,Summer,3.99,3.99,1.4923,2.4977
+1,LL Mountain Tire,9.3463,Southwest,United States,North America,Tires and Tubes,Accessories,August,32,Friday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,August,32,Friday,Summer,2.29,2.29,0.8565,1.4335
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,August,32,Friday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Half-Finger Gloves,9.7136,United Kingdom,United Kingdom,Europe,Gloves,Clothing,August,32,Friday,Summer,23.5481,23.5481,9.7136,13.834500000000002
+1,Touring-3000,461.4448,United Kingdom,United Kingdom,Europe,Touring Bikes,Bikes,August,32,Friday,Summer,742.35,742.35,461.4448,280.90520000000004
+1,Road-550-W,605.6492,Northwest,United States,North America,Road Bikes,Bikes,August,32,Saturday,Summer,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,August,32,Saturday,Summer,9.99,9.99,3.7363,6.2537
+1,Hydration Pack,20.5663,Southwest,United States,North America,Hydration Packs,Accessories,August,32,Saturday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,Road Tire Tube,1.4923,Canada,Canada,North America,Tires and Tubes,Accessories,August,32,Saturday,Summer,3.99,3.99,1.4923,2.4977
+1,Mountain-400-W,419.7784,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,August,32,Saturday,Summer,769.49,769.49,419.7784,349.71160000000003
+1,Long-Sleeve Logo Jersey,31.7244,Canada,Canada,North America,Jerseys,Clothing,August,32,Sunday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,LL Road Tire,8.0373,France,France,Europe,Tires and Tubes,Accessories,August,32,Sunday,Summer,21.49,21.49,8.0373,13.452699999999998
+1,Sport-100,13.0863,Germany,Germany,Europe,Helmets,Accessories,August,32,Sunday,Summer,34.99,34.99,13.0863,21.9037
+1,Long-Sleeve Logo Jersey,31.7244,Germany,Germany,Europe,Jerseys,Clothing,August,32,Sunday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Touring Tire Tube,1.8663,Germany,Germany,Europe,Tires and Tubes,Accessories,August,32,Sunday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,August,32,Sunday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,August,33,Monday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Northwest,United States,North America,Tires and Tubes,Accessories,August,33,Monday,Summer,3.99,3.99,1.4923,2.4977
+1,ML Mountain Tire,11.2163,Northwest,United States,North America,Tires and Tubes,Accessories,August,33,Monday,Summer,29.99,29.99,11.2163,18.773699999999998
+1,Long-Sleeve Logo Jersey,31.7244,Canada,Canada,North America,Jerseys,Clothing,August,33,Monday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,August,33,Monday,Summer,9.99,9.99,3.7363,6.2537
+1,LL Road Tire,8.0373,Germany,Germany,Europe,Tires and Tubes,Accessories,August,33,Monday,Summer,21.49,21.49,8.0373,13.452699999999998
+1,Long-Sleeve Logo Jersey,31.7244,United Kingdom,United Kingdom,Europe,Jerseys,Clothing,August,33,Monday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Mountain-200,1117.8559,Southwest,United States,North America,Mountain Bikes,Bikes,August,33,Tuesday,Summer,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,August,33,Tuesday,Summer,21.98,21.98,8.2205,13.759500000000001
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,August,33,Tuesday,Summer,9.99,9.99,3.7363,6.2537
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,August,33,Wednesday,Summer,33.6442,33.6442,12.0278,21.6164
+1,ML Road Tire,9.3463,France,France,Europe,Tires and Tubes,Accessories,August,33,Wednesday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,33,Wednesday,Summer,3.99,3.99,1.4923,2.4977
+1,Mountain-200,1105.81,Northwest,United States,North America,Mountain Bikes,Bikes,August,33,Thursday,Summer,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,August,33,Thursday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,France,France,Europe,Bottles and Cages,Accessories,August,33,Thursday,Summer,9.99,9.99,3.7363,6.2537
+2,Water Bottle,3.7326,Southwest,United States,North America,Bottles and Cages,Accessories,August,33,Friday,Summer,9.98,19.96,7.4652,12.494800000000001
+1,HL Road Tire,12.1924,France,France,Europe,Tires and Tubes,Accessories,August,33,Friday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Cycling Cap,5.7052,Germany,Germany,Europe,Caps,Clothing,August,33,Friday,Summer,8.6442,8.6442,5.7052,2.939
+1,Road Tire Tube,1.4923,Southwest,United States,North America,Tires and Tubes,Accessories,August,33,Saturday,Summer,3.99,3.99,1.4923,2.4977
+1,Sport-100,12.0278,Germany,Germany,Europe,Helmets,Accessories,August,33,Saturday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Long-Sleeve Logo Jersey,31.7244,Australia,Australia,Pacific,Jerseys,Clothing,August,33,Saturday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,33,Saturday,Summer,3.99,3.99,1.4923,2.4977
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,33,Saturday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,Northwest,United States,North America,Helmets,Accessories,August,33,Sunday,Summer,34.99,34.99,13.0863,21.9037
+1,Sport-100,13.0863,Germany,Germany,Europe,Helmets,Accessories,August,33,Sunday,Summer,34.99,34.99,13.0863,21.9037
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,August,34,Monday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,August,34,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,August,34,Tuesday,Summer,2049.0982,2049.0982,1105.81,943.2882
+1,All-Purpose Bike Stand,59.466,Northwest,United States,North America,Bike Stands,Accessories,August,34,Wednesday,Summer,159.0,159.0,59.466,99.53399999999999
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,August,34,Wednesday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,August,34,Wednesday,Summer,9.99,9.99,3.7363,6.2537
+1,Patch kit,0.8565,Southwest,United States,North America,Tires and Tubes,Accessories,August,34,Wednesday,Summer,2.29,2.29,0.8565,1.4335
+1,All-Purpose Bike Stand,59.466,Southwest,United States,North America,Bike Stands,Accessories,August,34,Wednesday,Summer,159.0,159.0,59.466,99.53399999999999
+1,Mountain Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,August,34,Wednesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,August,34,Wednesday,Summer,9.99,9.99,3.7363,6.2537
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,August,34,Wednesday,Summer,34.99,34.99,13.0863,21.9037
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,34,Wednesday,Summer,2.29,2.29,0.8565,1.4335
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,August,34,Wednesday,Summer,2.29,2.29,0.8565,1.4335
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,August,34,Thursday,Summer,33.6442,33.6442,12.0278,21.6164
+1,Long-Sleeve Logo Jersey,31.7244,Southwest,United States,North America,Jerseys,Clothing,August,34,Thursday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Touring-3000,461.4448,Southwest,United States,North America,Touring Bikes,Bikes,August,34,Thursday,Summer,742.35,742.35,461.4448,280.90520000000004
+1,Hydration Pack,20.5663,France,France,Europe,Hydration Packs,Accessories,August,34,Thursday,Summer,54.99,54.99,20.5663,34.423700000000004
+1,Road Tire Tube,1.4923,France,France,Europe,Tires and Tubes,Accessories,August,34,Thursday,Summer,3.99,3.99,1.4923,2.4977
+1,HL Road Tire,12.1924,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,34,Thursday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Women's Mountain Shorts,26.1763,Northwest,United States,North America,Shorts,Clothing,August,34,Friday,Summer,69.99,69.99,26.1763,43.8137
+1,Mountain-200,1105.81,France,France,Europe,Mountain Bikes,Bikes,August,34,Friday,Summer,2049.0982,2049.0982,1105.81,943.2882
+1,Long-Sleeve Logo Jersey,31.7244,Australia,Australia,Pacific,Jerseys,Clothing,August,34,Friday,Summer,48.0673,48.0673,31.7244,16.342900000000004
+1,Half-Finger Gloves,9.7136,Australia,Australia,Pacific,Gloves,Clothing,August,34,Friday,Summer,23.5481,23.5481,9.7136,13.834500000000002
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,August,34,Saturday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,August,34,Saturday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,HL Road Tire,12.1924,Northwest,United States,North America,Tires and Tubes,Accessories,August,34,Sunday,Summer,32.6,32.6,12.1924,20.407600000000002
+1,Touring-1000,1481.9379,Southwest,United States,North America,Touring Bikes,Bikes,August,34,Sunday,Summer,2384.07,2384.07,1481.9379,902.1321000000003
+1,Cycling Cap,5.7052,Canada,Canada,North America,Caps,Clothing,August,34,Sunday,Summer,8.6442,8.6442,5.7052,2.939
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,August,34,Sunday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,August,35,Monday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Short-Sleeve Classic Jersey,41.5723,Southwest,United States,North America,Jerseys,Clothing,August,35,Monday,Summer,53.99,53.99,41.5723,12.417700000000004
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,August,35,Monday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,France,France,Europe,Tires and Tubes,Accessories,August,35,Monday,Summer,3.99,3.99,1.4923,2.4977
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,August,35,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+2,Patch kit,1.713,Northwest,United States,North America,Tires and Tubes,Accessories,August,35,Tuesday,Summer,4.58,9.16,3.426,5.734
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,August,35,Tuesday,Summer,23.5481,23.5481,9.7136,13.834500000000002
+1,Racing Socks,3.3623,Canada,Canada,North America,Socks,Clothing,August,35,Tuesday,Summer,8.99,8.99,3.3623,5.627700000000001
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,August,35,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,ML Road Tire,9.3463,France,France,Europe,Tires and Tubes,Accessories,August,35,Tuesday,Summer,24.99,24.99,9.3463,15.643699999999999
+1,Road Bottle Cage,3.3623,Australia,Australia,Pacific,Bottles and Cages,Accessories,August,35,Tuesday,Summer,8.99,8.99,3.3623,5.627700000000001
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,35,Tuesday,Summer,3.99,3.99,1.4923,2.4977
+1,Touring Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,August,35,Tuesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,August,35,Wednesday,Summer,2.29,2.29,0.8565,1.4335
+1,Touring-3000,461.4448,Northwest,United States,North America,Touring Bikes,Bikes,August,35,Wednesday,Summer,742.35,742.35,461.4448,280.90520000000004
+1,Touring Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,August,35,Wednesday,Summer,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,August,35,Wednesday,Summer,2.29,2.29,0.8565,1.4335
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,September,35,Thursday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,LL Mountain Tire,9.3463,Canada,Canada,North America,Tires and Tubes,Accessories,September,35,Thursday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Mountain Bottle Cage,3.7363,France,France,Europe,Bottles and Cages,Accessories,September,35,Friday,Autumn,9.99,9.99,3.7363,6.2537
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,September,35,Friday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,September,35,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Road Tire,8.0373,Northwest,United States,North America,Tires and Tubes,Accessories,September,35,Saturday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,September,35,Saturday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Touring-1000,1481.9379,Canada,Canada,North America,Touring Bikes,Bikes,September,35,Saturday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,September,35,Saturday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,35,Saturday,Autumn,2.29,2.29,0.8565,1.4335
+1,Mountain Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,35,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Touring-1000,1481.9379,Australia,Australia,Pacific,Touring Bikes,Bikes,September,35,Saturday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,September,35,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Touring Tire,10.8423,Canada,Canada,North America,Tires and Tubes,Accessories,September,35,Sunday,Autumn,28.99,28.99,10.8423,18.1477
+1,Mountain Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,September,35,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Bike Wash,2.9733,United Kingdom,United Kingdom,Europe,Cleaners,Accessories,September,35,Sunday,Autumn,7.95,7.95,2.9733,4.9767
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,September,36,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,Southwest,United States,North America,Mountain Bikes,Bikes,September,36,Monday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,September,36,Monday,Autumn,35.0,35.0,13.09,21.91
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,September,36,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,September,36,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Fender Set - Mountain,8.2205,Australia,Australia,Pacific,Fenders,Accessories,September,36,Monday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Sport-100,13.0863,Northwest,United States,North America,Helmets,Accessories,September,36,Tuesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,36,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,September,36,Tuesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Touring-1000,1481.9379,Germany,Germany,Europe,Touring Bikes,Bikes,September,36,Tuesday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,36,Tuesday,Autumn,2.29,2.29,0.8565,1.4335
+1,Cycling Cap,5.7052,United Kingdom,United Kingdom,Europe,Caps,Clothing,September,36,Tuesday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,September,36,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,September,36,Wednesday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,September,36,Thursday,Autumn,69.99,69.99,26.1763,43.8137
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,September,36,Thursday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,LL Road Tire,8.0373,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,36,Thursday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,36,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,September,36,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,France,France,Europe,Bottles and Cages,Accessories,September,36,Friday,Autumn,9.99,9.99,3.7363,6.2537
+1,Patch kit,0.8565,Germany,Germany,Europe,Tires and Tubes,Accessories,September,36,Friday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,September,36,Saturday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,36,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Short-Sleeve Classic Jersey,41.5723,United Kingdom,United Kingdom,Europe,Jerseys,Clothing,September,36,Saturday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,36,Saturday,Autumn,3.99,3.99,1.4923,2.4977
+1,LL Road Tire,8.0373,Germany,Germany,Europe,Tires and Tubes,Accessories,September,36,Sunday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,36,Sunday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road-550-W,605.6492,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,September,36,Sunday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,September,37,Monday,Autumn,34.99,34.99,13.0863,21.9037
+1,ML Mountain Tire,11.2163,Canada,Canada,North America,Tires and Tubes,Accessories,September,37,Monday,Autumn,29.99,29.99,11.2163,18.773699999999998
+1,Mountain-200,1105.81,Southwest,United States,North America,Mountain Bikes,Bikes,September,37,Tuesday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Women's Mountain Shorts,26.1763,Southwest,United States,North America,Shorts,Clothing,September,37,Tuesday,Autumn,69.99,69.99,26.1763,43.8137
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,September,37,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,September,37,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Australia,Australia,Pacific,Bottles and Cages,Accessories,September,37,Tuesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Cycling Cap,5.7052,United Kingdom,United Kingdom,Europe,Caps,Clothing,September,37,Tuesday,Autumn,8.6442,8.6442,5.7052,2.939
+1,HL Mountain Tire,13.09,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,37,Wednesday,Autumn,35.0,35.0,13.09,21.91
+1,Touring-1000,1481.9379,United Kingdom,United Kingdom,Europe,Touring Bikes,Bikes,September,37,Wednesday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Road-550-W,605.6492,Northwest,United States,North America,Road Bikes,Bikes,September,37,Thursday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,September,37,Thursday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road Bottle Cage,3.3623,Canada,Canada,North America,Bottles and Cages,Accessories,September,37,Thursday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Road Tire Tube,1.4923,Canada,Canada,North America,Tires and Tubes,Accessories,September,37,Thursday,Autumn,3.99,3.99,1.4923,2.4977
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,37,Thursday,Autumn,3.99,3.99,1.4923,2.4977
+1,Touring Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,37,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,September,37,Friday,Autumn,9.99,9.99,3.7363,6.2537
+1,HL Mountain Tire,13.09,Northwest,United States,North America,Tires and Tubes,Accessories,September,37,Friday,Autumn,35.0,35.0,13.09,21.91
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,37,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+2,Mountain Bottle Cage,7.4726,Canada,Canada,North America,Bottles and Cages,Accessories,September,37,Friday,Autumn,19.98,39.96,14.9452,25.0148
+1,Road Tire Tube,1.4923,Canada,Canada,North America,Tires and Tubes,Accessories,September,37,Friday,Autumn,3.99,3.99,1.4923,2.4977
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,September,37,Saturday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Half-Finger Gloves,9.7136,Canada,Canada,North America,Gloves,Clothing,September,37,Saturday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Sport-100,13.0863,Germany,Germany,Europe,Helmets,Accessories,September,37,Saturday,Autumn,34.99,34.99,13.0863,21.9037
+1,HL Road Tire,12.1924,Northwest,United States,North America,Tires and Tubes,Accessories,September,37,Sunday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Road-250,1320.6838,Germany,Germany,Europe,Road Bikes,Bikes,September,37,Sunday,Autumn,2181.5625,2181.5625,1320.6838,860.8787
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,September,37,Sunday,Autumn,3.99,3.99,1.4923,2.4977
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,September,38,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road-550-W,605.6492,Northwest,United States,North America,Road Bikes,Bikes,September,38,Monday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,September,38,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Road Tire,8.0373,Canada,Canada,North America,Tires and Tubes,Accessories,September,38,Monday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Road-350-W,1082.51,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,September,38,Monday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Road-550-W,605.6492,Canada,Canada,North America,Road Bikes,Bikes,September,38,Tuesday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Road Bottle Cage,3.3623,Canada,Canada,North America,Bottles and Cages,Accessories,September,38,Tuesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,September,38,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Road Tire,8.0373,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,38,Tuesday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,LL Road Tire,8.0373,Northwest,United States,North America,Tires and Tubes,Accessories,September,38,Wednesday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,38,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,France,France,Europe,Tires and Tubes,Accessories,September,38,Wednesday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road Tire Tube,1.4923,France,France,Europe,Tires and Tubes,Accessories,September,38,Wednesday,Autumn,3.99,3.99,1.4923,2.4977
+1,LL Mountain Tire,9.3463,Southwest,United States,North America,Tires and Tubes,Accessories,September,38,Thursday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,38,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Half-Finger Gloves,9.7136,Canada,Canada,North America,Gloves,Clothing,September,38,Friday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Short-Sleeve Classic Jersey,41.5723,Germany,Germany,Europe,Jerseys,Clothing,September,38,Friday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Touring Tire,10.8423,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,38,Friday,Autumn,28.99,28.99,10.8423,18.1477
+1,Touring-1000,1481.9379,United Kingdom,United Kingdom,Europe,Touring Bikes,Bikes,September,38,Friday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Long-Sleeve Logo Jersey,31.7244,Northwest,United States,North America,Jerseys,Clothing,September,38,Saturday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,September,38,Saturday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,September,38,Saturday,Autumn,69.99,69.99,26.1763,43.8137
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,September,38,Saturday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,ML Road Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,September,38,Sunday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Mountain Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,September,38,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Hitch Rack - 4-Bike,44.88,Northwest,United States,North America,Bike Racks,Accessories,September,39,Monday,Autumn,120.0,120.0,44.88,75.12
+1,LL Road Tire,8.0373,Northwest,United States,North America,Tires and Tubes,Accessories,September,39,Monday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Mountain-500,308.2179,Northwest,United States,North America,Mountain Bikes,Bikes,September,39,Monday,Autumn,564.99,564.99,308.2179,256.7721
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,September,39,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,September,39,Monday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,September,39,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road Tire Tube,1.4923,Germany,Germany,Europe,Tires and Tubes,Accessories,September,39,Monday,Autumn,3.99,3.99,1.4923,2.4977
+1,ML Mountain Tire,11.2163,Germany,Germany,Europe,Tires and Tubes,Accessories,September,39,Monday,Autumn,29.99,29.99,11.2163,18.773699999999998
+1,Road-350-W,1082.51,Germany,Germany,Europe,Road Bikes,Bikes,September,39,Monday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,September,39,Monday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Mountain Tire Tube,1.8663,Germany,Germany,Europe,Tires and Tubes,Accessories,September,39,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Long-Sleeve Logo Jersey,31.7244,United Kingdom,United Kingdom,Europe,Jerseys,Clothing,September,39,Tuesday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,September,39,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,September,39,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Long-Sleeve Logo Jersey,31.7244,Germany,Germany,Europe,Jerseys,Clothing,September,39,Wednesday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Cycling Cap,5.7052,Australia,Australia,Pacific,Caps,Clothing,September,39,Wednesday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,September,39,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,HL Road Tire,12.1924,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,39,Thursday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Classic Vest,23.749,Northwest,United States,North America,Vests,Clothing,September,39,Friday,Autumn,63.5,63.5,23.749,39.751000000000005
+1,Road-750,343.6496,Southwest,United States,North America,Road Bikes,Bikes,September,39,Friday,Autumn,539.99,539.99,343.6496,196.3404
+2,Mountain Tire Tube,3.7326,Canada,Canada,North America,Tires and Tubes,Accessories,September,39,Friday,Autumn,9.98,19.96,7.4652,12.494800000000001
+1,LL Road Tire,8.0373,Germany,Germany,Europe,Tires and Tubes,Accessories,September,39,Friday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Road-750,343.6496,Australia,Australia,Pacific,Road Bikes,Bikes,September,39,Friday,Autumn,539.99,539.99,343.6496,196.3404
+1,Mountain Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,September,39,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,October,39,Saturday,Autumn,9.99,9.99,3.7363,6.2537
+1,Long-Sleeve Logo Jersey,31.7244,Canada,Canada,North America,Jerseys,Clothing,October,39,Saturday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Mountain-200,1105.81,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,October,39,Saturday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,October,39,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,39,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,October,39,Sunday,Autumn,2.29,2.29,0.8565,1.4335
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,October,39,Sunday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,October,39,Sunday,Autumn,34.99,34.99,13.0863,21.9037
+1,Road Tire Tube,1.4923,Southwest,United States,North America,Tires and Tubes,Accessories,October,39,Sunday,Autumn,3.99,3.99,1.4923,2.4977
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,October,39,Sunday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,39,Sunday,Autumn,3.99,3.99,1.4923,2.4977
+1,Mountain-200,1117.8559,Germany,Germany,Europe,Mountain Bikes,Bikes,October,40,Monday,Autumn,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road Bottle Cage,3.3623,Southwest,United States,North America,Bottles and Cages,Accessories,October,40,Tuesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Hydration Pack,20.5663,Southwest,United States,North America,Hydration Packs,Accessories,October,40,Tuesday,Autumn,54.99,54.99,20.5663,34.423700000000004
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,October,40,Tuesday,Autumn,2.29,2.29,0.8565,1.4335
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,October,40,Tuesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Fender Set - Mountain,8.2205,Northwest,United States,North America,Fenders,Accessories,October,40,Wednesday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,October,40,Wednesday,Autumn,2.29,2.29,0.8565,1.4335
+1,Half-Finger Gloves,9.7136,United Kingdom,United Kingdom,Europe,Gloves,Clothing,October,40,Wednesday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,October,40,Thursday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Cycling Cap,5.7052,Australia,Australia,Pacific,Caps,Clothing,October,40,Thursday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,October,40,Thursday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,40,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,40,Thursday,Autumn,9.99,9.99,3.7363,6.2537
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,October,40,Thursday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,LL Road Tire,8.0373,Canada,Canada,North America,Tires and Tubes,Accessories,October,40,Friday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Long-Sleeve Logo Jersey,31.7244,United Kingdom,United Kingdom,Europe,Jerseys,Clothing,October,40,Friday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,ML Mountain Tire,11.2163,Northwest,United States,North America,Tires and Tubes,Accessories,October,40,Saturday,Autumn,29.99,29.99,11.2163,18.773699999999998
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,October,40,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,40,Saturday,Autumn,2.29,2.29,0.8565,1.4335
+1,HL Road Tire,12.1924,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,40,Saturday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Cycling Cap,5.7052,Northwest,United States,North America,Caps,Clothing,October,40,Sunday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,October,40,Sunday,Autumn,9.99,9.99,3.7363,6.2537
+1,Cycling Cap,5.7052,Southwest,United States,North America,Caps,Clothing,October,40,Sunday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Long-Sleeve Logo Jersey,31.7244,France,France,Europe,Jerseys,Clothing,October,40,Sunday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Touring Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,October,40,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Long-Sleeve Logo Jersey,31.7244,Germany,Germany,Europe,Jerseys,Clothing,October,40,Sunday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,40,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Half-Finger Gloves,9.7136,United Kingdom,United Kingdom,Europe,Gloves,Clothing,October,40,Sunday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,40,Sunday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,40,Sunday,Autumn,3.99,3.99,1.4923,2.4977
+1,Long-Sleeve Logo Jersey,31.7244,Southwest,United States,North America,Jerseys,Clothing,October,41,Monday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,October,41,Monday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,October,41,Monday,Autumn,35.0,35.0,13.09,21.91
+1,Mountain Bottle Cage,3.7363,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,41,Monday,Autumn,9.99,9.99,3.7363,6.2537
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,41,Monday,Autumn,3.99,3.99,1.4923,2.4977
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,41,Monday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Road Bottle Cage,3.3623,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,October,41,Monday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,LL Mountain Tire,9.3463,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,41,Monday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Road-350-W,1082.51,Northwest,United States,North America,Road Bikes,Bikes,October,41,Tuesday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Mountain Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,October,41,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-500,294.5797,Canada,Canada,North America,Mountain Bikes,Bikes,October,41,Tuesday,Autumn,539.99,539.99,294.5797,245.4103
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,41,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,October,41,Wednesday,Autumn,69.99,69.99,26.1763,43.8137
+1,HL Mountain Tire,13.09,Canada,Canada,North America,Tires and Tubes,Accessories,October,41,Wednesday,Autumn,35.0,35.0,13.09,21.91
+1,ML Road Tire,9.3463,Canada,Canada,North America,Tires and Tubes,Accessories,October,41,Wednesday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,October,41,Wednesday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Sport-100,13.0863,United Kingdom,United Kingdom,Europe,Helmets,Accessories,October,41,Wednesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,October,41,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Cycling Cap,5.7052,Australia,Australia,Pacific,Caps,Clothing,October,41,Thursday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,October,41,Thursday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,HL Road Tire,12.1924,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,October,41,Thursday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Road-350-W,1082.51,Northwest,United States,North America,Road Bikes,Bikes,October,41,Friday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,October,41,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,41,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road-750,343.6496,Northwest,United States,North America,Road Bikes,Bikes,October,41,Saturday,Autumn,539.99,539.99,343.6496,196.3404
+1,Mountain-200,1117.8559,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,October,41,Saturday,Autumn,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road Bottle Cage,3.3623,Southwest,United States,North America,Bottles and Cages,Accessories,October,41,Sunday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,October,41,Sunday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,October,41,Sunday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Road-550-W,605.6492,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,October,41,Sunday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,October,42,Monday,Autumn,2.29,2.29,0.8565,1.4335
+1,Touring Tire Tube,1.8663,Germany,Germany,Europe,Tires and Tubes,Accessories,October,42,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Fender Set - Mountain,8.2205,Australia,Australia,Pacific,Fenders,Accessories,October,42,Monday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,LL Road Tire,8.0373,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,42,Monday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Racing Socks,3.3623,France,France,Europe,Socks,Clothing,October,42,Tuesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Mountain-400-W,419.7784,Southwest,United States,North America,Mountain Bikes,Bikes,October,42,Wednesday,Autumn,769.49,769.49,419.7784,349.71160000000003
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,October,42,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Mountain-200,1117.8559,Australia,Australia,Pacific,Mountain Bikes,Bikes,October,42,Wednesday,Autumn,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Half-Finger Gloves,9.7136,Northwest,United States,North America,Gloves,Clothing,October,42,Thursday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,October,42,Thursday,Autumn,2.29,2.29,0.8565,1.4335
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,October,42,Thursday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Half-Finger Gloves,9.7136,Australia,Australia,Pacific,Gloves,Clothing,October,42,Thursday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain Bottle Cage,3.7363,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,October,42,Thursday,Autumn,9.99,9.99,3.7363,6.2537
+1,Cycling Cap,5.7052,Northwest,United States,North America,Caps,Clothing,October,42,Friday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Racing Socks,3.3623,Southwest,United States,North America,Socks,Clothing,October,42,Friday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,October,42,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,HL Mountain Tire,13.09,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,42,Friday,Autumn,35.0,35.0,13.09,21.91
+1,ML Road Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,42,Friday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Road-750,343.6496,Northwest,United States,North America,Road Bikes,Bikes,October,42,Saturday,Autumn,539.99,539.99,343.6496,196.3404
+1,Touring Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,October,42,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road-750,343.6496,France,France,Europe,Road Bikes,Bikes,October,42,Saturday,Autumn,539.99,539.99,343.6496,196.3404
+1,Road Bottle Cage,3.3623,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,42,Saturday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,HL Mountain Tire,13.09,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,42,Saturday,Autumn,35.0,35.0,13.09,21.91
+1,Cycling Cap,5.7052,Northwest,United States,North America,Caps,Clothing,October,42,Sunday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Mountain-200,1105.81,Southwest,United States,North America,Mountain Bikes,Bikes,October,42,Sunday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,October,42,Sunday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,October,43,Monday,Autumn,34.99,34.99,13.0863,21.9037
+1,Half-Finger Gloves,9.7136,France,France,Europe,Gloves,Clothing,October,43,Monday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Touring Tire,10.8423,Germany,Germany,Europe,Tires and Tubes,Accessories,October,43,Monday,Autumn,28.99,28.99,10.8423,18.1477
+1,HL Road Tire,12.1924,Southwest,United States,North America,Tires and Tubes,Accessories,October,43,Tuesday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Road-750,343.6496,Southwest,United States,North America,Road Bikes,Bikes,October,43,Tuesday,Autumn,539.99,539.99,343.6496,196.3404
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,43,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Racing Socks,3.3623,Australia,Australia,Pacific,Socks,Clothing,October,43,Tuesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Fender Set - Mountain,8.2205,United Kingdom,United Kingdom,Europe,Fenders,Accessories,October,43,Tuesday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Road-550-W,605.6492,Northwest,United States,North America,Road Bikes,Bikes,October,43,Wednesday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,October,43,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Northwest,United States,North America,Tires and Tubes,Accessories,October,43,Wednesday,Autumn,3.99,3.99,1.4923,2.4977
+1,Touring Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,October,43,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Short-Sleeve Classic Jersey,41.5723,Southwest,United States,North America,Jerseys,Clothing,October,43,Wednesday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Mountain Bottle Cage,3.7363,Germany,Germany,Europe,Bottles and Cages,Accessories,October,43,Wednesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Touring Tire,10.8423,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,43,Wednesday,Autumn,28.99,28.99,10.8423,18.1477
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,October,43,Thursday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,October,43,Thursday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Cycling Cap,5.7052,Southwest,United States,North America,Caps,Clothing,October,43,Friday,Autumn,8.6442,8.6442,5.7052,2.939
+1,Patch kit,0.8565,France,France,Europe,Tires and Tubes,Accessories,October,43,Friday,Autumn,2.29,2.29,0.8565,1.4335
+1,Bike Wash,2.9733,France,France,Europe,Cleaners,Accessories,October,43,Friday,Autumn,7.95,7.95,2.9733,4.9767
+1,Touring-2000,755.1508,France,France,Europe,Touring Bikes,Bikes,October,43,Friday,Autumn,1214.85,1214.85,755.1508,459.6991999999999
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,October,43,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,October,43,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Classic Vest,23.749,United Kingdom,United Kingdom,Europe,Vests,Clothing,October,43,Friday,Autumn,63.5,63.5,23.749,39.751000000000005
+1,Road-350-W,1082.51,Southwest,United States,North America,Road Bikes,Bikes,October,43,Saturday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Touring Tire,10.8423,Canada,Canada,North America,Tires and Tubes,Accessories,October,43,Saturday,Autumn,28.99,28.99,10.8423,18.1477
+1,Long-Sleeve Logo Jersey,31.7244,Germany,Germany,Europe,Jerseys,Clothing,October,43,Saturday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,LL Road Tire,8.0373,Australia,Australia,Pacific,Tires and Tubes,Accessories,October,43,Saturday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,October,43,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,October,43,Sunday,Autumn,35.0,35.0,13.09,21.91
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,October,43,Sunday,Autumn,69.99,69.99,26.1763,43.8137
+1,Mountain-200,1105.81,Australia,Australia,Pacific,Mountain Bikes,Bikes,October,43,Sunday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Road-250,1320.6838,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,October,43,Sunday,Autumn,2181.5625,2181.5625,1320.6838,860.8787
+1,Mountain-500,294.5797,Northwest,United States,North America,Mountain Bikes,Bikes,October,44,Monday,Autumn,539.99,539.99,294.5797,245.4103
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,October,44,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Touring Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,October,44,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,Germany,Germany,Europe,Mountain Bikes,Bikes,October,44,Monday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Mountain Tire Tube,1.8663,Germany,Germany,Europe,Tires and Tubes,Accessories,October,44,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road-750,343.6496,Germany,Germany,Europe,Road Bikes,Bikes,October,44,Monday,Autumn,539.99,539.99,343.6496,196.3404
+1,Road-750,343.6496,Australia,Australia,Pacific,Road Bikes,Bikes,October,44,Monday,Autumn,539.99,539.99,343.6496,196.3404
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,November,44,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,November,44,Tuesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,November,44,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Canada,Canada,North America,Tires and Tubes,Accessories,November,44,Tuesday,Autumn,3.99,3.99,1.4923,2.4977
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,November,44,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Mountain-200,1105.81,Canada,Canada,North America,Mountain Bikes,Bikes,November,44,Wednesday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,November,44,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,November,44,Wednesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Road-550-W,605.6492,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,November,44,Wednesday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Women's Mountain Shorts,26.1763,Southwest,United States,North America,Shorts,Clothing,November,44,Thursday,Autumn,69.99,69.99,26.1763,43.8137
+1,Touring Tire,10.8423,Southwest,United States,North America,Tires and Tubes,Accessories,November,44,Thursday,Autumn,28.99,28.99,10.8423,18.1477
+1,Road-250,1320.6838,Germany,Germany,Europe,Road Bikes,Bikes,November,44,Thursday,Autumn,2181.5625,2181.5625,1320.6838,860.8787
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,November,44,Thursday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,November,44,Friday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,November,44,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,November,44,Saturday,Autumn,9.99,9.99,3.7363,6.2537
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,44,Saturday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,November,44,Saturday,Autumn,3.99,3.99,1.4923,2.4977
+1,Fender Set - Mountain,8.2205,Northwest,United States,North America,Fenders,Accessories,November,44,Sunday,Autumn,21.98,21.98,8.2205,13.759500000000001
+2,Water Bottle,3.7326,Southwest,United States,North America,Bottles and Cages,Accessories,November,44,Sunday,Autumn,9.98,19.96,7.4652,12.494800000000001
+1,Mountain-200,1117.8559,Northwest,United States,North America,Mountain Bikes,Bikes,November,45,Monday,Autumn,2071.4196,2071.4196,1117.8559,953.5637000000002
+2,Water Bottle,3.7326,Southwest,United States,North America,Bottles and Cages,Accessories,November,45,Monday,Autumn,9.98,19.96,7.4652,12.494800000000001
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,November,45,Monday,Autumn,9.99,9.99,3.7363,6.2537
+1,HL Road Tire,12.1924,Canada,Canada,North America,Tires and Tubes,Accessories,November,45,Monday,Autumn,32.6,32.6,12.1924,20.407600000000002
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,November,45,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,November,45,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,45,Monday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,HL Mountain Tire,13.09,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,45,Monday,Autumn,35.0,35.0,13.09,21.91
+1,Road-750,343.6496,Australia,Australia,Pacific,Road Bikes,Bikes,November,45,Monday,Autumn,539.99,539.99,343.6496,196.3404
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,November,45,Tuesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Classic Vest,23.749,Southwest,United States,North America,Vests,Clothing,November,45,Tuesday,Autumn,63.5,63.5,23.749,39.751000000000005
+1,ML Mountain Tire,11.2163,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,November,45,Tuesday,Autumn,29.99,29.99,11.2163,18.773699999999998
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,November,45,Wednesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,November,45,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,November,45,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,45,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,Northwest,United States,North America,Mountain Bikes,Bikes,November,45,Thursday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Touring Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,November,45,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,November,45,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road Bottle Cage,3.3623,France,France,Europe,Bottles and Cages,Accessories,November,45,Thursday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Fender Set - Mountain,8.2205,United Kingdom,United Kingdom,Europe,Fenders,Accessories,November,45,Thursday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,November,45,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Patch kit,0.8565,Southwest,United States,North America,Tires and Tubes,Accessories,November,45,Saturday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road-750,343.6496,Canada,Canada,North America,Road Bikes,Bikes,November,45,Saturday,Autumn,539.99,539.99,343.6496,196.3404
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,November,45,Saturday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,45,Saturday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Touring Tire,10.8423,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,November,45,Saturday,Autumn,28.99,28.99,10.8423,18.1477
+1,Road Bottle Cage,3.3623,Northwest,United States,North America,Bottles and Cages,Accessories,November,45,Sunday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Touring-1000,1481.9379,Northwest,United States,North America,Touring Bikes,Bikes,November,45,Sunday,Autumn,2384.07,2384.07,1481.9379,902.1321000000003
+1,Road-250,1320.6838,Australia,Australia,Pacific,Road Bikes,Bikes,November,45,Sunday,Autumn,2181.5625,2181.5625,1320.6838,860.8787
+1,Half-Finger Gloves,9.7136,Northwest,United States,North America,Gloves,Clothing,November,46,Monday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain-400-W,419.7784,Northwest,United States,North America,Mountain Bikes,Bikes,November,46,Monday,Autumn,769.49,769.49,419.7784,349.71160000000003
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,November,46,Monday,Autumn,9.99,9.99,3.7363,6.2537
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,November,46,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,LL Road Tire,8.0373,France,France,Europe,Tires and Tubes,Accessories,November,46,Monday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,HL Mountain Tire,13.09,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,46,Monday,Autumn,35.0,35.0,13.09,21.91
+1,Mountain-500,308.2179,Australia,Australia,Pacific,Mountain Bikes,Bikes,November,46,Monday,Autumn,564.99,564.99,308.2179,256.7721
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,November,46,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,46,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,November,46,Tuesday,Autumn,2.29,2.29,0.8565,1.4335
+1,Mountain Bottle Cage,3.7363,Southwest,United States,North America,Bottles and Cages,Accessories,November,46,Tuesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Touring-2000,755.1508,Southwest,United States,North America,Touring Bikes,Bikes,November,46,Tuesday,Autumn,1214.85,1214.85,755.1508,459.6991999999999
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,November,46,Wednesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,LL Road Tire,8.0373,Southwest,United States,North America,Tires and Tubes,Accessories,November,46,Wednesday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,November,46,Thursday,Autumn,2.29,2.29,0.8565,1.4335
+1,Road-750,343.6496,Canada,Canada,North America,Road Bikes,Bikes,November,46,Thursday,Autumn,539.99,539.99,343.6496,196.3404
+1,Road-750,343.6496,Germany,Germany,Europe,Road Bikes,Bikes,November,46,Thursday,Autumn,539.99,539.99,343.6496,196.3404
+1,Hydration Pack,20.5663,Australia,Australia,Pacific,Hydration Packs,Accessories,November,46,Thursday,Autumn,54.99,54.99,20.5663,34.423700000000004
+1,Road-550-W,605.6492,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,November,46,Thursday,Autumn,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Road Bottle Cage,3.3623,Northwest,United States,North America,Bottles and Cages,Accessories,November,46,Friday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Patch kit,0.8565,Canada,Canada,North America,Tires and Tubes,Accessories,November,46,Friday,Autumn,2.29,2.29,0.8565,1.4335
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,November,46,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Hydration Pack,20.5663,France,France,Europe,Hydration Packs,Accessories,November,46,Friday,Autumn,54.99,54.99,20.5663,34.423700000000004
+1,Touring Tire,10.8423,Germany,Germany,Europe,Tires and Tubes,Accessories,November,46,Friday,Autumn,28.99,28.99,10.8423,18.1477
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,November,46,Friday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road Tire Tube,1.4923,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,November,46,Friday,Autumn,3.99,3.99,1.4923,2.4977
+1,Road-350-W,1082.51,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,November,46,Friday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Road-750,343.6496,United Kingdom,United Kingdom,Europe,Road Bikes,Bikes,November,46,Friday,Autumn,539.99,539.99,343.6496,196.3404
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,November,46,Saturday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Road-250,1320.6838,Southwest,United States,North America,Road Bikes,Bikes,November,46,Saturday,Autumn,2181.5625,2181.5625,1320.6838,860.8787
+1,All-Purpose Bike Stand,59.466,Southwest,United States,North America,Bike Stands,Accessories,November,46,Saturday,Autumn,159.0,159.0,59.466,99.53399999999999
+1,Touring Tire,10.8423,Southwest,United States,North America,Tires and Tubes,Accessories,November,46,Saturday,Autumn,28.99,28.99,10.8423,18.1477
+1,Road-750,343.6496,Canada,Canada,North America,Road Bikes,Bikes,November,46,Saturday,Autumn,539.99,539.99,343.6496,196.3404
+1,Sport-100,13.0863,Germany,Germany,Europe,Helmets,Accessories,November,46,Saturday,Autumn,34.99,34.99,13.0863,21.9037
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,November,46,Saturday,Autumn,34.99,34.99,13.0863,21.9037
+1,Road-350-W,1082.51,Australia,Australia,Pacific,Road Bikes,Bikes,November,46,Saturday,Autumn,1700.99,1700.99,1082.51,618.48
+1,Racing Socks,3.3623,Southwest,United States,North America,Socks,Clothing,November,46,Sunday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Half-Finger Gloves,9.7136,Canada,Canada,North America,Gloves,Clothing,November,46,Sunday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,LL Road Tire,8.0373,Canada,Canada,North America,Tires and Tubes,Accessories,November,46,Sunday,Autumn,21.49,21.49,8.0373,13.452699999999998
+1,Road Tire Tube,1.4923,Germany,Germany,Europe,Tires and Tubes,Accessories,November,46,Sunday,Autumn,3.99,3.99,1.4923,2.4977
+1,Hydration Pack,20.5663,Australia,Australia,Pacific,Hydration Packs,Accessories,November,46,Sunday,Autumn,54.99,54.99,20.5663,34.423700000000004
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,November,47,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Long-Sleeve Logo Jersey,31.7244,Northwest,United States,North America,Jerseys,Clothing,November,47,Monday,Autumn,48.0673,48.0673,31.7244,16.342900000000004
+1,Mountain-200,1105.81,Southwest,United States,North America,Mountain Bikes,Bikes,November,47,Monday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,November,47,Monday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain-200,1117.8559,Southwest,United States,North America,Mountain Bikes,Bikes,November,47,Tuesday,Autumn,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,November,47,Tuesday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,November,47,Tuesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,November,47,Tuesday,Autumn,53.99,53.99,41.5723,12.417700000000004
+1,Sport-100,13.0863,United Kingdom,United Kingdom,Europe,Helmets,Accessories,November,47,Tuesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,November,47,Wednesday,Autumn,9.99,9.99,3.7363,6.2537
+1,Road Bottle Cage,3.3623,Northwest,United States,North America,Bottles and Cages,Accessories,November,47,Wednesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,November,47,Wednesday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Women's Mountain Shorts,26.1763,Southwest,United States,North America,Shorts,Clothing,November,47,Wednesday,Autumn,69.99,69.99,26.1763,43.8137
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,November,47,Wednesday,Autumn,34.99,34.99,13.0863,21.9037
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,November,47,Thursday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,November,47,Thursday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,ML Mountain Tire,11.2163,Australia,Australia,Pacific,Tires and Tubes,Accessories,November,47,Thursday,Autumn,29.99,29.99,11.2163,18.773699999999998
+1,Mountain-200,1105.81,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,November,47,Thursday,Autumn,2049.0982,2049.0982,1105.81,943.2882
+1,Mountain Bottle Cage,3.7363,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,47,Thursday,Autumn,9.99,9.99,3.7363,6.2537
+1,Fender Set - Mountain,8.2205,Southwest,United States,North America,Fenders,Accessories,November,47,Friday,Autumn,21.98,21.98,8.2205,13.759500000000001
+1,Bike Wash,2.9733,Canada,Canada,North America,Cleaners,Accessories,November,47,Friday,Autumn,7.95,7.95,2.9733,4.9767
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,November,47,Friday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Southwest,United States,North America,Tires and Tubes,Accessories,November,47,Saturday,Autumn,3.99,3.99,1.4923,2.4977
+1,Road Bottle Cage,3.3623,France,France,Europe,Bottles and Cages,Accessories,November,47,Saturday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Bike Wash,2.9733,Germany,Germany,Europe,Cleaners,Accessories,November,47,Saturday,Autumn,7.95,7.95,2.9733,4.9767
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,November,47,Sunday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Half-Finger Gloves,9.7136,Australia,Australia,Pacific,Gloves,Clothing,November,47,Sunday,Autumn,23.5481,23.5481,9.7136,13.834500000000002
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,November,48,Monday,Autumn,2.29,2.29,0.8565,1.4335
+1,Hitch Rack - 4-Bike,44.88,Northwest,United States,North America,Bike Racks,Accessories,November,48,Monday,Autumn,120.0,120.0,44.88,75.12
+1,Touring Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,November,48,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,November,48,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Australia,Australia,Pacific,Helmets,Accessories,November,48,Monday,Autumn,33.6442,33.6442,12.0278,21.6164
+1,Mountain-400-W,419.7784,Australia,Australia,Pacific,Mountain Bikes,Bikes,November,48,Monday,Autumn,769.49,769.49,419.7784,349.71160000000003
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,48,Monday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,48,Monday,Autumn,9.99,9.99,3.7363,6.2537
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,November,48,Tuesday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,48,Tuesday,Autumn,4.99,4.99,1.8663,3.1237000000000004
+1,Road Bottle Cage,3.3623,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,November,48,Tuesday,Autumn,8.99,8.99,3.3623,5.627700000000001
+1,Women's Mountain Shorts,26.1763,Northwest,United States,North America,Shorts,Clothing,November,48,Wednesday,Autumn,69.99,69.99,26.1763,43.8137
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,November,48,Wednesday,Autumn,34.99,34.99,13.0863,21.9037
+1,LL Mountain Tire,9.3463,Southwest,United States,North America,Tires and Tubes,Accessories,November,48,Wednesday,Autumn,24.99,24.99,9.3463,15.643699999999999
+1,Women's Mountain Shorts,26.1763,France,France,Europe,Shorts,Clothing,November,48,Wednesday,Autumn,69.99,69.99,26.1763,43.8137
+1,Road-750,343.6496,Australia,Australia,Pacific,Road Bikes,Bikes,November,48,Wednesday,Autumn,539.99,539.99,343.6496,196.3404
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,December,48,Thursday,Winter,33.6442,33.6442,12.0278,21.6164
+1,LL Mountain Tire,9.3463,Canada,Canada,North America,Tires and Tubes,Accessories,December,48,Thursday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,December,48,Thursday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Touring-3000,461.4448,France,France,Europe,Touring Bikes,Bikes,December,48,Thursday,Winter,742.35,742.35,461.4448,280.90520000000004
+1,Cycling Cap,5.7052,Germany,Germany,Europe,Caps,Clothing,December,48,Thursday,Winter,8.6442,8.6442,5.7052,2.939
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,December,48,Thursday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,Australia,Australia,Pacific,Helmets,Accessories,December,48,Thursday,Winter,34.99,34.99,13.0863,21.9037
+1,HL Road Tire,12.1924,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,48,Thursday,Winter,32.6,32.6,12.1924,20.407600000000002
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,December,48,Friday,Winter,69.99,69.99,26.1763,43.8137
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,December,48,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,December,48,Saturday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Half-Finger Gloves,9.7136,Canada,Canada,North America,Gloves,Clothing,December,48,Saturday,Winter,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,December,48,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,December,48,Saturday,Winter,53.99,53.99,41.5723,12.417700000000004
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,December,48,Saturday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,December,48,Sunday,Winter,9.99,9.99,3.7363,6.2537
+1,ML Road Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,December,48,Sunday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Water Bottle,1.8663,Germany,Germany,Europe,Bottles and Cages,Accessories,December,48,Sunday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,48,Sunday,Winter,3.99,3.99,1.4923,2.4977
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,December,49,Monday,Winter,34.99,34.99,13.0863,21.9037
+1,Mountain Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Monday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,December,49,Monday,Winter,9.99,9.99,3.7363,6.2537
+1,Road-550-W,605.6492,Germany,Germany,Europe,Road Bikes,Bikes,December,49,Monday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,December,49,Monday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,United Kingdom,United Kingdom,Europe,Helmets,Accessories,December,49,Monday,Winter,34.99,34.99,13.0863,21.9037
+1,Sport-100,12.0278,United Kingdom,United Kingdom,Europe,Helmets,Accessories,December,49,Monday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,December,49,Tuesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,December,49,Tuesday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Fender Set - Mountain,8.2205,Canada,Canada,North America,Fenders,Accessories,December,49,Tuesday,Winter,21.98,21.98,8.2205,13.759500000000001
+1,Touring-1000,1481.9379,Germany,Germany,Europe,Touring Bikes,Bikes,December,49,Tuesday,Winter,2384.07,2384.07,1481.9379,902.1321000000003
+1,Half-Finger Gloves,9.7136,Southwest,United States,North America,Gloves,Clothing,December,49,Wednesday,Winter,23.5481,23.5481,9.7136,13.834500000000002
+1,Mountain Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Wednesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,HL Road Tire,12.1924,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Wednesday,Winter,32.6,32.6,12.1924,20.407600000000002
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,December,49,Wednesday,Winter,69.99,69.99,26.1763,43.8137
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,December,49,Wednesday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Mountain-500,308.2179,France,France,Europe,Mountain Bikes,Bikes,December,49,Wednesday,Winter,564.99,564.99,308.2179,256.7721
+1,Touring-1000,1481.9379,Australia,Australia,Pacific,Touring Bikes,Bikes,December,49,Wednesday,Winter,2384.07,2384.07,1481.9379,902.1321000000003
+1,Mountain-500,294.5797,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,December,49,Wednesday,Winter,539.99,539.99,294.5797,245.4103
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,December,49,Thursday,Winter,34.99,34.99,13.0863,21.9037
+1,Short-Sleeve Classic Jersey,41.5723,Australia,Australia,Pacific,Jerseys,Clothing,December,49,Thursday,Winter,53.99,53.99,41.5723,12.417700000000004
+1,Touring-2000,755.1508,Australia,Australia,Pacific,Touring Bikes,Bikes,December,49,Thursday,Winter,1214.85,1214.85,755.1508,459.6991999999999
+1,Half-Finger Gloves,9.7136,United Kingdom,United Kingdom,Europe,Gloves,Clothing,December,49,Thursday,Winter,23.5481,23.5481,9.7136,13.834500000000002
+1,Cycling Cap,5.7052,Southwest,United States,North America,Caps,Clothing,December,49,Friday,Winter,8.6442,8.6442,5.7052,2.939
+1,Patch kit,0.8565,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Friday,Winter,2.29,2.29,0.8565,1.4335
+1,Touring Tire Tube,1.8663,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Friday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,December,49,Friday,Winter,35.0,35.0,13.09,21.91
+1,Classic Vest,23.749,Canada,Canada,North America,Vests,Clothing,December,49,Friday,Winter,63.5,63.5,23.749,39.751000000000005
+1,Women's Mountain Shorts,26.1763,Canada,Canada,North America,Shorts,Clothing,December,49,Friday,Winter,69.99,69.99,26.1763,43.8137
+1,Road Bottle Cage,3.3623,Germany,Germany,Europe,Bottles and Cages,Accessories,December,49,Friday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Road Bottle Cage,3.3623,Australia,Australia,Pacific,Bottles and Cages,Accessories,December,49,Friday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,49,Friday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,HL Mountain Tire,13.09,France,France,Europe,Tires and Tubes,Accessories,December,49,Saturday,Winter,35.0,35.0,13.09,21.91
+1,Mountain Bottle Cage,3.7363,Australia,Australia,Pacific,Bottles and Cages,Accessories,December,49,Saturday,Winter,9.99,9.99,3.7363,6.2537
+1,Road-250,1320.6838,Northwest,United States,North America,Road Bikes,Bikes,December,49,Sunday,Winter,2181.5625,2181.5625,1320.6838,860.8787
+1,Women's Mountain Shorts,26.1763,Australia,Australia,Pacific,Shorts,Clothing,December,49,Sunday,Winter,69.99,69.99,26.1763,43.8137
+1,Water Bottle,1.8663,Australia,Australia,Pacific,Bottles and Cages,Accessories,December,49,Sunday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,December,50,Monday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Sport-100,13.0863,Canada,Canada,North America,Helmets,Accessories,December,50,Monday,Winter,34.99,34.99,13.0863,21.9037
+1,Sport-100,13.0863,France,France,Europe,Helmets,Accessories,December,50,Monday,Winter,34.99,34.99,13.0863,21.9037
+1,Touring Tire Tube,1.8663,France,France,Europe,Tires and Tubes,Accessories,December,50,Monday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,ML Mountain Tire,11.2163,France,France,Europe,Tires and Tubes,Accessories,December,50,Monday,Winter,29.99,29.99,11.2163,18.773699999999998
+1,Mountain Bottle Cage,3.7363,Germany,Germany,Europe,Bottles and Cages,Accessories,December,50,Monday,Winter,9.99,9.99,3.7363,6.2537
+1,Fender Set - Mountain,8.2205,United Kingdom,United Kingdom,Europe,Fenders,Accessories,December,50,Monday,Winter,21.98,21.98,8.2205,13.759500000000001
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,December,50,Tuesday,Winter,2.29,2.29,0.8565,1.4335
+1,Fender Set - Mountain,8.2205,Northwest,United States,North America,Fenders,Accessories,December,50,Tuesday,Winter,21.98,21.98,8.2205,13.759500000000001
+1,LL Mountain Tire,9.3463,Southwest,United States,North America,Tires and Tubes,Accessories,December,50,Tuesday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Road Tire Tube,1.4923,Canada,Canada,North America,Tires and Tubes,Accessories,December,50,Tuesday,Winter,3.99,3.99,1.4923,2.4977
+1,Cycling Cap,5.7052,Germany,Germany,Europe,Caps,Clothing,December,50,Tuesday,Winter,8.6442,8.6442,5.7052,2.939
+1,All-Purpose Bike Stand,59.466,Australia,Australia,Pacific,Bike Stands,Accessories,December,50,Tuesday,Winter,159.0,159.0,59.466,99.53399999999999
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,50,Tuesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,HL Road Tire,12.1924,Northwest,United States,North America,Tires and Tubes,Accessories,December,50,Wednesday,Winter,32.6,32.6,12.1924,20.407600000000002
+1,Road Bottle Cage,3.3623,Southwest,United States,North America,Bottles and Cages,Accessories,December,50,Wednesday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Sport-100,12.0278,Canada,Canada,North America,Helmets,Accessories,December,50,Wednesday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Mountain-200,1105.81,Northwest,United States,North America,Mountain Bikes,Bikes,December,50,Thursday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Mountain Bottle Cage,3.7363,Northwest,United States,North America,Bottles and Cages,Accessories,December,50,Thursday,Winter,9.99,9.99,3.7363,6.2537
+1,Touring-2000,755.1508,Canada,Canada,North America,Touring Bikes,Bikes,December,50,Thursday,Winter,1214.85,1214.85,755.1508,459.6991999999999
+1,Short-Sleeve Classic Jersey,41.5723,France,France,Europe,Jerseys,Clothing,December,50,Thursday,Winter,53.99,53.99,41.5723,12.417700000000004
+1,Mountain Tire Tube,1.8663,Germany,Germany,Europe,Tires and Tubes,Accessories,December,50,Thursday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,LL Road Tire,8.0373,Germany,Germany,Europe,Tires and Tubes,Accessories,December,50,Thursday,Winter,21.49,21.49,8.0373,13.452699999999998
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,50,Thursday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Touring-3000,461.4448,Australia,Australia,Pacific,Touring Bikes,Bikes,December,50,Thursday,Winter,742.35,742.35,461.4448,280.90520000000004
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,December,50,Thursday,Winter,2.29,2.29,0.8565,1.4335
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,December,50,Friday,Winter,2.29,2.29,0.8565,1.4335
+1,Touring Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,December,50,Friday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,December,50,Friday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Bike Wash,2.9733,United Kingdom,United Kingdom,Europe,Cleaners,Accessories,December,50,Friday,Winter,7.95,7.95,2.9733,4.9767
+1,Women's Mountain Shorts,26.1763,Northwest,United States,North America,Shorts,Clothing,December,50,Saturday,Winter,69.99,69.99,26.1763,43.8137
+1,ML Road Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,December,50,Saturday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,December,50,Saturday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Road-350-W,1082.51,Southwest,United States,North America,Road Bikes,Bikes,December,50,Saturday,Winter,1700.99,1700.99,1082.51,618.48
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,December,50,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,HL Mountain Tire,13.09,Canada,Canada,North America,Tires and Tubes,Accessories,December,50,Saturday,Winter,35.0,35.0,13.09,21.91
+1,Water Bottle,1.8663,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,December,50,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,Northwest,United States,North America,Mountain Bikes,Bikes,December,50,Sunday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,December,50,Sunday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Germany,Germany,Europe,Helmets,Accessories,December,51,Monday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Touring-1000,1481.9379,Australia,Australia,Pacific,Touring Bikes,Bikes,December,51,Monday,Winter,2384.07,2384.07,1481.9379,902.1321000000003
+1,Mountain-200,1117.8559,United Kingdom,United Kingdom,Europe,Mountain Bikes,Bikes,December,51,Monday,Winter,2071.4196,2071.4196,1117.8559,953.5637000000002
+1,Road Tire Tube,1.4923,Northwest,United States,North America,Tires and Tubes,Accessories,December,51,Tuesday,Winter,3.99,3.99,1.4923,2.4977
+1,Mountain Bottle Cage,3.7363,Canada,Canada,North America,Bottles and Cages,Accessories,December,51,Tuesday,Winter,9.99,9.99,3.7363,6.2537
+1,Cycling Cap,5.7052,Germany,Germany,Europe,Caps,Clothing,December,51,Tuesday,Winter,8.6442,8.6442,5.7052,2.939
+1,LL Mountain Tire,9.3463,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,51,Tuesday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Touring-1000,1481.9379,United Kingdom,United Kingdom,Europe,Touring Bikes,Bikes,December,51,Tuesday,Winter,2384.07,2384.07,1481.9379,902.1321000000003
+1,Water Bottle,1.8663,Northwest,United States,North America,Bottles and Cages,Accessories,December,51,Wednesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain-200,1105.81,Canada,Canada,North America,Mountain Bikes,Bikes,December,51,Wednesday,Winter,2049.0982,2049.0982,1105.81,943.2882
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,December,51,Wednesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Patch kit,0.8565,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,December,51,Wednesday,Winter,2.29,2.29,0.8565,1.4335
+1,Road-550-W,605.6492,Northwest,United States,North America,Road Bikes,Bikes,December,51,Thursday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Sport-100,12.0278,Southwest,United States,North America,Helmets,Accessories,December,51,Friday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Water Bottle,1.8663,Southwest,United States,North America,Bottles and Cages,Accessories,December,51,Friday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Short-Sleeve Classic Jersey,41.5723,Southwest,United States,North America,Jerseys,Clothing,December,51,Friday,Winter,53.99,53.99,41.5723,12.417700000000004
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,December,51,Friday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Bike Wash,2.9733,Australia,Australia,Pacific,Cleaners,Accessories,December,51,Friday,Winter,7.95,7.95,2.9733,4.9767
+1,Patch kit,0.8565,Northwest,United States,North America,Tires and Tubes,Accessories,December,51,Saturday,Winter,2.29,2.29,0.8565,1.4335
+1,HL Mountain Tire,13.09,Northwest,United States,North America,Tires and Tubes,Accessories,December,51,Saturday,Winter,35.0,35.0,13.09,21.91
+1,ML Road Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,December,51,Saturday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Racing Socks,3.3623,Southwest,United States,North America,Socks,Clothing,December,51,Saturday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Half-Finger Gloves,9.7136,Canada,Canada,North America,Gloves,Clothing,December,51,Saturday,Winter,23.5481,23.5481,9.7136,13.834500000000002
+1,Water Bottle,1.8663,Canada,Canada,North America,Bottles and Cages,Accessories,December,51,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road Tire Tube,1.4923,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,51,Saturday,Winter,3.99,3.99,1.4923,2.4977
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,51,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,Northwest,United States,North America,Helmets,Accessories,December,51,Sunday,Winter,34.99,34.99,13.0863,21.9037
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,December,51,Sunday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Women's Mountain Shorts,26.1763,Southwest,United States,North America,Shorts,Clothing,December,51,Sunday,Winter,69.99,69.99,26.1763,43.8137
+1,Mountain-400-W,419.7784,Southwest,United States,North America,Mountain Bikes,Bikes,December,51,Sunday,Winter,769.49,769.49,419.7784,349.71160000000003
+1,Sport-100,12.0278,France,France,Europe,Helmets,Accessories,December,51,Sunday,Winter,33.6442,33.6442,12.0278,21.6164
+1,Cycling Cap,5.7052,Germany,Germany,Europe,Caps,Clothing,December,51,Sunday,Winter,8.6442,8.6442,5.7052,2.939
+1,Long-Sleeve Logo Jersey,31.7244,Australia,Australia,Pacific,Jerseys,Clothing,December,51,Sunday,Winter,48.0673,48.0673,31.7244,16.342900000000004
+1,Touring Tire Tube,1.8663,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,51,Sunday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Long-Sleeve Logo Jersey,31.7244,United Kingdom,United Kingdom,Europe,Jerseys,Clothing,December,51,Sunday,Winter,48.0673,48.0673,31.7244,16.342900000000004
+1,Long-Sleeve Logo Jersey,31.7244,Northwest,United States,North America,Jerseys,Clothing,December,52,Monday,Winter,48.0673,48.0673,31.7244,16.342900000000004
+1,Road Bottle Cage,3.3623,Northwest,United States,North America,Bottles and Cages,Accessories,December,52,Monday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,December,52,Monday,Winter,34.99,34.99,13.0863,21.9037
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,December,52,Monday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road Bottle Cage,3.3623,Germany,Germany,Europe,Bottles and Cages,Accessories,December,52,Monday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Road-550-W,605.6492,Australia,Australia,Pacific,Road Bikes,Bikes,December,52,Monday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Mountain Tire Tube,1.8663,United Kingdom,United Kingdom,Europe,Tires and Tubes,Accessories,December,52,Monday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Mountain Tire Tube,1.8663,Canada,Canada,North America,Tires and Tubes,Accessories,December,52,Tuesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road Bottle Cage,3.3623,Australia,Australia,Pacific,Bottles and Cages,Accessories,December,52,Tuesday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Patch kit,0.8565,Australia,Australia,Pacific,Tires and Tubes,Accessories,December,52,Tuesday,Winter,2.29,2.29,0.8565,1.4335
+1,Road-750,343.6496,Northwest,United States,North America,Road Bikes,Bikes,December,52,Wednesday,Winter,539.99,539.99,343.6496,196.3404
+1,Sport-100,13.0863,Southwest,United States,North America,Helmets,Accessories,December,52,Wednesday,Winter,34.99,34.99,13.0863,21.9037
+1,LL Road Tire,8.0373,Southwest,United States,North America,Tires and Tubes,Accessories,December,52,Wednesday,Winter,21.49,21.49,8.0373,13.452699999999998
+1,HL Mountain Tire,13.09,Canada,Canada,North America,Tires and Tubes,Accessories,December,52,Wednesday,Winter,35.0,35.0,13.09,21.91
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,December,52,Wednesday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,13.0863,Germany,Germany,Europe,Helmets,Accessories,December,52,Wednesday,Winter,34.99,34.99,13.0863,21.9037
+1,Touring-1000,1481.9379,Australia,Australia,Pacific,Touring Bikes,Bikes,December,52,Wednesday,Winter,2384.07,2384.07,1481.9379,902.1321000000003
+1,Road-750,343.6496,Australia,Australia,Pacific,Road Bikes,Bikes,December,52,Wednesday,Winter,539.99,539.99,343.6496,196.3404
+1,Bike Wash,2.9733,Northwest,United States,North America,Cleaners,Accessories,December,52,Thursday,Winter,7.95,7.95,2.9733,4.9767
+1,Mountain Tire Tube,1.8663,Northwest,United States,North America,Tires and Tubes,Accessories,December,52,Thursday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Sport-100,12.0278,Northwest,United States,North America,Helmets,Accessories,December,52,Friday,Winter,33.6442,33.6442,12.0278,21.6164
+1,LL Mountain Tire,9.3463,Northwest,United States,North America,Tires and Tubes,Accessories,December,52,Friday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,HL Road Tire,12.1924,Northwest,United States,North America,Tires and Tubes,Accessories,December,52,Friday,Winter,32.6,32.6,12.1924,20.407600000000002
+1,Road-550-W,605.6492,Southwest,United States,North America,Road Bikes,Bikes,December,52,Friday,Winter,1000.4375,1000.4375,605.6492,394.78830000000005
+1,Bike Wash,2.9733,Southwest,United States,North America,Cleaners,Accessories,December,52,Friday,Winter,7.95,7.95,2.9733,4.9767
+1,Racing Socks,3.3623,Canada,Canada,North America,Socks,Clothing,December,52,Friday,Winter,8.99,8.99,3.3623,5.627700000000001
+1,Long-Sleeve Logo Jersey,31.7244,France,France,Europe,Jerseys,Clothing,December,52,Friday,Winter,48.0673,48.0673,31.7244,16.342900000000004
+1,Cycling Cap,5.7052,Southwest,United States,North America,Caps,Clothing,December,52,Saturday,Winter,8.6442,8.6442,5.7052,2.939
+1,HL Mountain Tire,13.09,Southwest,United States,North America,Tires and Tubes,Accessories,December,52,Saturday,Winter,35.0,35.0,13.09,21.91
+1,ML Road Tire,9.3463,Canada,Canada,North America,Tires and Tubes,Accessories,December,52,Saturday,Winter,24.99,24.99,9.3463,15.643699999999999
+1,Water Bottle,1.8663,France,France,Europe,Bottles and Cages,Accessories,December,52,Saturday,Winter,4.99,4.99,1.8663,3.1237000000000004
+1,Road-350-W,1082.51,Germany,Germany,Europe,Road Bikes,Bikes,December,52,Saturday,Winter,1700.99,1700.99,1082.51,618.48
+1,Road Bottle Cage,3.3623,United Kingdom,United Kingdom,Europe,Bottles and Cages,Accessories,December,52,Saturday,Winter,8.99,8.99,3.3623,5.627700000000001
