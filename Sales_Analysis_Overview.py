@@ -107,7 +107,7 @@ if pages=='Home Page':
         col2.metric('📈 Total Profit', f'${Total_Profit:,.2f}')
         col3.metric('📊 Profit Margin', f'${Profit_Margin:,.2f}')
         col1.metric('🛒 Total Orders', f'{Total_Orders:,}')
-        col2.metric('🧾 Avg. Order Value', f'{Avg_Order_Value:,.2f}')
+        col2.metric('🧾 Avg. Order Value', f'${Avg_Order_Value:,.2f}')
         
     with st.expander('🏆 Top Insights'):
         col1,col2,col3=st.columns(3)
@@ -726,4 +726,5 @@ else:
     
         
         
+
 
