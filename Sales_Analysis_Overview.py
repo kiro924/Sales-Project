@@ -60,7 +60,7 @@ st.markdown("""
 if pages=='Home Page':
 
     st.markdown('<div class="title">Sales & Returns Analysis Overview</div>', unsafe_allow_html=True)
-    st.image("dataset-cover.JPG")
+    st.image("dataset-cover.jpg")
     
     def load_data():
          return pd.read_csv('New Data.csv')
@@ -689,3 +689,4 @@ else:
     
         
         
+
